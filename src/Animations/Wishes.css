@@ -1,0 +1,7 @@
+.main{
+    position: relative;
+    justify-content: space-around;
+    height: 100vh;
+    background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);
+    overflow: hidden;
+}

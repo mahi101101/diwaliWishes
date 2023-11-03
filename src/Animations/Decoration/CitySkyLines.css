@@ -1,0 +1,10 @@
+.city {
+  filter: brightness(0.6);
+  background: url("../Assests/skyline.png") center bottom no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 70%;
+  position: absolute;
+  bottom: 0;
+  z-index: 3;
+}
