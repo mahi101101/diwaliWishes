@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/diwaliWishes/static/css/main.3a8085c3.css",
-    "main.js": "/diwaliWishes/static/js/main.5b01103e.js",
+    "main.css": "/diwaliWishes/static/css/main.f60f3ff9.css",
+    "main.js": "/diwaliWishes/static/js/main.e979cf4f.js",
     "static/js/65.7734cafb.chunk.js": "/diwaliWishes/static/js/65.7734cafb.chunk.js",
     "static/js/408.08c6d3ac.chunk.js": "/diwaliWishes/static/js/408.08c6d3ac.chunk.js",
     "static/js/450.3f14fb25.chunk.js": "/diwaliWishes/static/js/450.3f14fb25.chunk.js",
@@ -11,11 +11,11 @@
     "static/js/844.50e770b0.chunk.js": "/diwaliWishes/static/js/844.50e770b0.chunk.js",
     "static/media/skyline.png": "/diwaliWishes/static/media/skyline.5d9ab1c2e868146fbf97.png",
     "index.html": "/diwaliWishes/index.html",
-    "main.3a8085c3.css.map": "/diwaliWishes/static/css/main.3a8085c3.css.map",
-    "main.5b01103e.js.map": "/diwaliWishes/static/js/main.5b01103e.js.map"
+    "main.f60f3ff9.css.map": "/diwaliWishes/static/css/main.f60f3ff9.css.map",
+    "main.e979cf4f.js.map": "/diwaliWishes/static/js/main.e979cf4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a8085c3.css",
-    "static/js/main.5b01103e.js"
+    "static/css/main.f60f3ff9.css",
+    "static/js/main.e979cf4f.js"
   ]
 }
