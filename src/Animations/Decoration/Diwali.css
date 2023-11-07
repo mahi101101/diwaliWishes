@@ -35,7 +35,8 @@
   }
   .diya1,
   .diya2 {
-    height: 6rem;
+    width: 16vw;
+    
   }
   .wish div {
     margin: 0;
@@ -43,8 +44,9 @@
   }
   .diwali{
     height: 35rem;
+    width: initial;
   }
   .wish{
-    top:2%;
+    top:-1%;
   }
 }
