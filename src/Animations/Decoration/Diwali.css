@@ -17,33 +17,34 @@
 }
 
 .diwali {
+  height: 58vh;
   z-index: 5;
 }
 
 .diya1 {
-  top: 100px;
+  height: 10vh;
+
   z-index: 5;
 }
 
 .diya2 {
+  height: 10vh;
   z-index: 5;
 }
 
 @media screen and (max-width: 830px) {
-  .wish{
+  .wish {
     width: fit-content;
     top: 0%;
     left: 0;
     padding: 10px;
   }
-  .diya1,.diya2{
-    height: 6vh;
-
+  .diya1,
+  .diya2 {
+    height: 9vh;
   }
-  .wish div{
+  .wish div {
     margin: 0;
     padding: 0;
   }
-
-
 }

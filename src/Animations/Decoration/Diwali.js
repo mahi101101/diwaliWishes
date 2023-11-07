@@ -16,7 +16,6 @@ const Diwali = () => {
           animationData={animationData1}
           play
           loop
-          style={{ height: "10vh" }}
           className="diya1"
         />
 
@@ -24,7 +23,6 @@ const Diwali = () => {
           animationData={animationData}
           play
           loop
-          style={{ height: "58vh" }}
           speed={1}
           className="diwali"
         />
@@ -33,7 +31,6 @@ const Diwali = () => {
           animationData={animationData1}
           play
           loop
-          style={{ height: "10vh" }}
           className="diya2"
         />
       </div>
