@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6a76581.css",
-    "main.js": "/static/js/main.a79b5463.js",
-    "static/js/65.7734cafb.chunk.js": "/static/js/65.7734cafb.chunk.js",
-    "static/js/408.08c6d3ac.chunk.js": "/static/js/408.08c6d3ac.chunk.js",
-    "static/js/450.3f14fb25.chunk.js": "/static/js/450.3f14fb25.chunk.js",
-    "static/js/887.04ec5310.chunk.js": "/static/js/887.04ec5310.chunk.js",
-    "static/js/177.0dae82de.chunk.js": "/static/js/177.0dae82de.chunk.js",
-    "static/js/423.db8cd423.chunk.js": "/static/js/423.db8cd423.chunk.js",
-    "static/js/844.50e770b0.chunk.js": "/static/js/844.50e770b0.chunk.js",
-    "static/media/skyline.png": "/static/media/skyline.5d9ab1c2e868146fbf97.png",
-    "index.html": "/index.html",
-    "main.d6a76581.css.map": "/static/css/main.d6a76581.css.map",
-    "main.a79b5463.js.map": "/static/js/main.a79b5463.js.map"
+    "main.css": "/diwaliWishes.git/static/css/main.8aa39148.css",
+    "main.js": "/diwaliWishes.git/static/js/main.7bf7befb.js",
+    "static/js/65.7734cafb.chunk.js": "/diwaliWishes.git/static/js/65.7734cafb.chunk.js",
+    "static/js/408.08c6d3ac.chunk.js": "/diwaliWishes.git/static/js/408.08c6d3ac.chunk.js",
+    "static/js/450.3f14fb25.chunk.js": "/diwaliWishes.git/static/js/450.3f14fb25.chunk.js",
+    "static/js/887.04ec5310.chunk.js": "/diwaliWishes.git/static/js/887.04ec5310.chunk.js",
+    "static/js/177.0dae82de.chunk.js": "/diwaliWishes.git/static/js/177.0dae82de.chunk.js",
+    "static/js/423.db8cd423.chunk.js": "/diwaliWishes.git/static/js/423.db8cd423.chunk.js",
+    "static/js/844.50e770b0.chunk.js": "/diwaliWishes.git/static/js/844.50e770b0.chunk.js",
+    "static/media/skyline.png": "/diwaliWishes.git/static/media/skyline.5d9ab1c2e868146fbf97.png",
+    "index.html": "/diwaliWishes.git/index.html",
+    "main.8aa39148.css.map": "/diwaliWishes.git/static/css/main.8aa39148.css.map",
+    "main.7bf7befb.js.map": "/diwaliWishes.git/static/js/main.7bf7befb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6a76581.css",
-    "static/js/main.a79b5463.js"
+    "static/css/main.8aa39148.css",
+    "static/js/main.7bf7befb.js"
   ]
 }
