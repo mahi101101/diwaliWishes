@@ -17,17 +17,11 @@
 }
 
 .diwali {
-  height: 58vh;
+  height: fit-content;
   z-index: 5;
 }
 
-.diya1 {
-  height: 10vh;
-
-  z-index: 5;
-}
-
-.diya2 {
+.diya1,.diya2 {
   height: 10vh;
   z-index: 5;
 }
@@ -41,10 +35,16 @@
   }
   .diya1,
   .diya2 {
-    height: 9vh;
+    height: 8vh;
   }
   .wish div {
     margin: 0;
     padding: 0;
+  }
+  .diwali{
+    height: fit-content;
+  }
+  .wish{
+    top:12%;
   }
 }
