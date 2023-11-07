@@ -11,29 +11,30 @@ const Diwali = () => {
   }, []);
   return (
     <React.Fragment>
-      <div className="diwali">
+      <div className="wish">
+        <LottiePlayer
+          animationData={animationData1}
+          play
+          loop
+          style={{ height: "10vh" }}
+          className="diya1"
+        />
+
         <LottiePlayer
           animationData={animationData}
           play
           loop
           style={{ height: "58vh" }}
           speed={1}
+          className="diwali"
         />
-      </div>
-      <div className="diya1">
+
         <LottiePlayer
           animationData={animationData1}
           play
           loop
           style={{ height: "10vh" }}
-        />
-      </div>
-      <div className="diya2">
-        <LottiePlayer
-          animationData={animationData1}
-          play
-          loop
-          style={{ height: "10vh" }}
+          className="diya2"
         />
       </div>
     </React.Fragment>

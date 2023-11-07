@@ -1,20 +1,31 @@
-.diwali{
-    position: absolute;
-    right: 13%;
-    bottom: 52%;
-    z-index: 5;
+.wish {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  left: 32%;
+  top: -10%;
+  filter: brightness(1.5);
 }
 
-.diya1{
-    position: absolute;
-    right: 10%;
-    bottom: 77%;
-    z-index: 5;
+.wish div {
+  margin: 2px;
+  padding: 2px;
 }
 
-.diya2{
-    position: absolute;
-    right: 46%;
-    bottom: 77%;
-    z-index: 5;
+.diwali {
+  z-index: 5;
+}
+
+.diya1 {
+  top: 100px;
+
+  z-index: 5;
+}
+
+.diya2 {
+  z-index: 5;
 }
