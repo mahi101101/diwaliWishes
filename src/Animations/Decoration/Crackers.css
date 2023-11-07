@@ -1,47 +1,69 @@
-.pop{
-    z-index: 2;
+.pop {
+  z-index: 2;
 }
 
-.item1{
-    position:absolute;
-    left:6%;
-    bottom: 20%;
-
+.item1 {
+  position: absolute;
+  left: 6%;
+  bottom: 20%;
 }
 
-.item2{
-    position:absolute;
-    left:26%;
-    bottom: 40%;
+.item2 {
+  position: absolute;
+  left: 26%;
+  bottom: 40%;
 }
 
-.item3{
-    position:absolute;
-    left: 19%;
-    bottom: 23%;
+.item3 {
+  position: absolute;
+  left: 19%;
+  bottom: 23%;
 }
 
-.item4{
-    position:absolute;
-    left: 39%;
-    bottom: 56%;
+.item4 {
+  position: absolute;
+  left: 39%;
+  bottom: 56%;
 }
 
-.item5{
-    position:absolute;
-    left: 57%;
-    bottom: 35%;
+.item5 {
+  position: absolute;
+  left: 57%;
+  bottom: 35%;
 }
 
-.item6{
-    position: absolute;
-    left: 74%;
-    bottom: 30%;
+.item6 {
+  position: absolute;
+  left: 74%;
+  bottom: 30%;
 }
 
-.item7{
-    position: absolute;
-    left: 44%;
-    bottom: 37%;
+.item7 {
+  position: absolute;
+  left: 44%;
+  bottom: 37%;
 }
 
+@media screen and (max-width: 830px) {
+  .item7,
+  .item6,
+  .item3,
+  .item4 {
+    display: none;
+  }
+  .item1 {
+    left: -44%;
+    right: 0;
+    bottom: 38%;
+  }
+  .item2 {
+    left: 43%;
+    right: 0;
+    bottom: 24%;
+  }
+  .item5 {
+    top: 0%;
+    right: 0%;
+    left: 0%;
+  }
+}

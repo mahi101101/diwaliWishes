@@ -22,10 +22,20 @@
 
 .diya1 {
   top: 100px;
-
   z-index: 5;
 }
 
 .diya2 {
   z-index: 5;
+}
+
+@media screen and (max-width: 830px) {
+  .wish{
+    width: fit-content;
+    top: 0%;
+    left: 0;
+    padding: 10px;
+  }
+
+
 }

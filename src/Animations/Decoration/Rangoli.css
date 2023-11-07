@@ -17,3 +17,13 @@
     top: 10vh;
     z-index: 100;
 }
+
+@media screen and (max-width: 830px) {
+    .rangoli-side-left{
+        top:-40%;
+        
+    }
+    .rangoli-side-right{
+        top:-40%;
+    }
+}
