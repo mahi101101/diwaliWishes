@@ -36,8 +36,13 @@
     left: 0;
     padding: 10px;
   }
-  .diwali{
-    width: fit-content;
+  .diya1,.diya2{
+    height: 6vh;
+
+  }
+  .wish div{
+    margin: 0;
+    padding: 0;
   }
 
 
