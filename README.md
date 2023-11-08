@@ -4,7 +4,7 @@ An modern way of greeting for our favorite festival Diwali.
 
 ## Description
 
-"Diwali Wishes" is a project aimed at providing a modern and innovative approach to sending and receiving Diwali greetings. With this platform, users can create and send personalized digital Diwali wishes to their friends and family.
+"Diwali Wishes" is a project aimed at providing a modern and innovative approach to sending and receiving Diwali greetings.
 
 ## Installation
 
