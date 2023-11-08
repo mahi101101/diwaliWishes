@@ -10,13 +10,13 @@ An modern way of greeting for our favorite festival Diwali.
 
 To use "Diwali Wishes," follow these simple installation steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine.<br/>
 ``` git clone https://github.com/mahi101101/diwaliWishes.git ```
-2. Navigate to the project directory.
+2. Navigate to the project directory.<br/>
 ``` cd diwaliWishes ```
-3. Install project dependencies
+3. Install project dependencies<br/>
 ```npm install```
-4. Run the project
+4. Run the project<br/>
 ``` npm start ```
 5. Open localhost:3000/diwaliWishes in your browser
 
